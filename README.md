@@ -17,6 +17,7 @@ This repository contains documentation and guidelines for ethical practices. It 
 - [Ethical Guidelines](ETHICAL_GUIDELINES.md) - Comprehensive guidelines for responsible development
 - [Code of Conduct](CODE_OF_CONDUCT.md) - Community standards and behavior expectations
 - [Contributing Guidelines](CONTRIBUTING.md) - Process for ethical contributions
+- [Content Moderation Guidelines](CONTENT_MODERATION.md) - Understanding platform vs. repository-level solutions
 
 ## Getting Started
 1. Read the [Ethical Guidelines](ETHICAL_GUIDELINES.md) to understand our principles
